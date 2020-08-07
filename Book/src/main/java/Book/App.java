@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Minh la Dao!");
         System.out.println("Minh la nam ");
-        System.out.println("Lai phat nua nay!");
+        System.out.println("Lai phat nua nay!");    
     }
 }
